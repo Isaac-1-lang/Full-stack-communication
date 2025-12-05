@@ -27,16 +27,8 @@ duplex_send(data);
 duplex_receive();
 ```
 
-## Project Structure
-```
-├── src/          # Source files
-├── include/      # Header files
-├── test/         # Test cases
-└── docs/         # Documentation
-```
-
 ## Contributing
 Follow the project coding standards and submit pull requests.
 
 ## License
-[Specify your license]
+None
